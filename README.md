@@ -1,6 +1,8 @@
 # dhmc
 
-Discontinuous Hamiltonian Monte Carlo (DHMC) in JAX.
+![dhmc](https://github.com/ethanluoyc/dhmc-jax/blob/master/figures/dhmc.png | width=100)
+
+Discontinuous Hamiltonian Monte Carlo (DHMC) (https://arxiv.org/abs/1705.08510) in JAX.
 
 ## Description
 
