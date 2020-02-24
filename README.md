@@ -23,3 +23,9 @@ In order to set up the necessary environment:
    ```
    conda activate dhmc
    ```
+
+## TODOs
+
+1. Allow for custom mass in the kinetic energy.
+2. Implement operator splitting version of the integrator.
+3. Allow for more tracing in the intermediate states.
